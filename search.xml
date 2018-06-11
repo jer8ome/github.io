@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[markdown用法]]></title>
+    <url>%2F2018%2F06%2F07%2Fmarkdown%E7%94%A8%E6%B3%95%2F</url>
+    <content type="text"><![CDATA[常用的语法规则本文所提的快捷键仅限Markdown软件使用，其他地方可能不适用。 标题总共有6级标题，建议在#后面加一个空格，这是最标准的Markdown语法。快捷键：ctrl+1/2/3/4/试过之后发现只能支持到四级，这点与Mou有些不同 换行和分段换行：只需在行末加两个空格再回车即可分段：段落之间空一行即可当然如果想偷懒，直接在markdownpad上风格改成github风格即可安利一个护眼RGB 文本样式 加粗: 快捷键：ctrl+b 斜体: 快捷键：ctrl+i 删除线:~~ ~~ 底纹: 列表 无序列表无序列表只需在文本前加*/+/-后接个空格生成子列表只需多加个Tab 有序列表在文本前加数字.+空格即可图片和链接图片与链接只相差一个! 图片：![图片描述](图片地址) 链接：[网址内容](网址)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度一下，你就知道分割线三个-或者*都可以划出一条分割线，如： 代码框 三种方式 两对```包裹 代码前加四个空格 代码前加个tab键1echo &apos;我是代码&apos; 脚注脚注一般都是成对出现格式如：[^1] [^1]:注点我有注释哦[^1][^1]:脚注 最后再说几句&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里主要介绍了几种常用的markdown语法，更多详情请参考Markdown中文版语法说明，遗憾的是，由于笔者才疏学浅，至今仍有一些问题未能解决，如怎样用markdown让代码显示行号，及如何简单的输出多个空格（除用输入法全角及HTML外）……跪求大佬为我解答疑惑，可评论可私信，持续更新中…喜欢就关注下呗！]]></content>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test_my_site]]></title>
+    <url>%2F2018%2F06%2F05%2Ftest-my-site%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F06%2F05%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
